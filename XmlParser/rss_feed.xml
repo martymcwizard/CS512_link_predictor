@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8" ?><feed xmlns:osearch="http://a9.com/-/spec/opensearch/1.1" xmlns="http://www.w3.org/2005/Atom">
+  <entry>
+    <id>urn:lsid:lconn.ibm.com:forums.story:16db4292-997e-4fae-a506-10f75a647cd1</id>
+    <title>Nathaniel Meyer liked the topic named DewDrop Utility Scripts in the DewDrop forum.</title>
+    <summary type="html">&lt;p dir=&quot;ltr&quot;&gt; I started a &lt;a href=&quot;https://codecloud.web.att.com/projects/ST_WK7804/repos/dewdrop-scripts/browse&quot;&gt;CodeCloud projec&lt;/a&gt;t to store scripts that I&apos;ve found useful for working with DewDrop. This project should be viewable/cloneable by anyone with access to CodeCloud. &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt; I&apos;ve been using these scripts to handle tasks that I&apos;ve found to be either tricky to get correct (like installing SWM) or need to be repeated enough that whipping up a script was useful (like reconfiguring the networking when my VPN-assigned hostname changes each time I reconnect). &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt; Some things to keep in mind: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; The scripts are pretty solid but more basic documentation is needed. &lt;/li&gt; &lt;li&gt; The provided alternative to the &apos;Pers.cmd&apos; (that is packaged with DewDrop) is named &apos;&lt;a href=&quot;http://ddctl.sh&quot; target=&quot;_blank&quot;&gt;ddctl.sh&lt;/a&gt;&apos; and is intended to be used by &lt;strong&gt;Apple OSX &lt;/strong&gt; users wanting to use DewDrop. Beyond being bash-friendly, it handles some additional manipulation of the VirtualBox VM settings that make it easier to use in a VPN environment , sets up Port-Forwarding for SSH access to the VM and makes it easy to launch a &apos;headless&apos; DewDrop VM. &lt;/li&gt; &lt;li&gt; Feedback, enhancements and bug fixes are welcome &lt;/li&gt; &lt;/ul&gt;</summary>
+    <author>
+      <name>Nathaniel Meyer</name>
+    </author>
+    <updated>2016-02-08T05:27:18.947-08:00</updated>
+    <link rel="alternate" href="https://tspace.web.att.com/forums/html/topic?id=f69ad3fa-8c25-491c-8040-49ec2e4de83e"/>
+    <content type="application/xml">
+      <activityEntry xmlns="http://ns.opensocial.org/2008/opensocial">
+        <actor>
+          <displayName>Nathaniel Meyer</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:92c39a40-f097-102d-8576-8721496765cd</id>
+          <objectType>person</objectType>
+        </actor>
+        <generator>
+          <displayName>Forums</displayName>
+          <id>forums</id>
+          <image/>
+          <url>https://tspace.web.att.com/forums</url>
+        </generator>
+        <id>urn:lsid:lconn.ibm.com:forums.story:16db4292-997e-4fae-a506-10f75a647cd1</id>
+        <object>
+          <author>
+            <displayName>Bill Knotts</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+            <objectType>person</objectType>
+          </author>
+          <displayName>DewDrop Utility Scripts</displayName>
+          <id>urn:lsid:lconn.ibm.com:forums.article:f69ad3fa-8c25-491c-8040-49ec2e4de83e</id>
+          <objectType>article</objectType>
+          <published>2016-02-06T00:20:37.529Z</published>
+          <summary>&lt;p dir=&quot;ltr&quot;&gt; I started a &lt;a href=&quot;https://codecloud.web.att.com/projects/ST_WK7804/repos/dewdrop-scripts/browse&quot;&gt;CodeCloud projec&lt;/a&gt;t to store scripts that I&apos;ve found useful for working with DewDrop. This project should be viewable/cloneable by anyone with access to CodeCloud. &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt; I&apos;ve been using these scripts to handle tasks that I&apos;ve found to be either tricky to get correct (like installing SWM) or need to be repeated enough that whipping up a script was useful (like reconfiguring the networking when my VPN-assigned hostname changes each time I reconnect). &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt; Some things to keep in mind: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; The scripts are pretty solid but more basic documentation is needed. &lt;/li&gt; &lt;li&gt; The provided alternative to the &apos;Pers.cmd&apos; (that is packaged with DewDrop) is named &apos;&lt;a href=&quot;http://ddctl.sh&quot; target=&quot;_blank&quot;&gt;ddctl.sh&lt;/a&gt;&apos; and is intended to be used by &lt;strong&gt;Apple OSX &lt;/strong&gt; users wanting to use DewDrop. Beyond being bash-friendly, it handles some additional manipulation of the VirtualBox VM settings that make it easier to use in a VPN environment , sets up Port-Forwarding for SSH access to the VM and makes it easy to launch a &apos;headless&apos; DewDrop VM. &lt;/li&gt; &lt;li&gt; Feedback, enhancements and bug fixes are welcome &lt;/li&gt; &lt;/ul&gt;</summary>
+          <updated>2016-02-06T00:20:37.529Z</updated>
+          <url>https://tspace.web.att.com/forums/html/topic?id=f69ad3fa-8c25-491c-8040-49ec2e4de83e</url>
+        </object>
+        <provider>
+          <displayName>IBM Connections - News Service</displayName>
+          <id>http://www.ibm.com/xmlns/prod/sn</id>
+          <url>https://tspace.web.att.com/news</url>
+        </provider>
+        <published>2016-02-08T13:27:18.947Z</published>
+        <title>Nathaniel Meyer liked the topic named DewDrop Utility Scripts in the DewDrop forum.</title>
+        <url>https://tspace.web.att.com/connections/opensocial/basic/rest/activitystreams/@public/@all/@all/urn:lsid:lconn.ibm.com:forums.story:16db4292-997e-4fae-a506-10f75a647cd1?format=atom</url>
+        <verb>like</verb>
+      </activityEntry>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:lsid:lconn.ibm.com:forums.story:cd7bf09f-850f-4131-8d23-94ea771a0e8a</id>
+    <title>Martin P McEnroe replied to the AT&amp;T URL Shortener, now with Vanity Aliases! topic thread in the General Topics Forum forum.</title>
+    <summary type="html">&lt;p dir=&quot;ltr&quot;&gt;You mean like this? &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;  &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;&lt;a href=&quot;http://link.att.com/MrHandsome&quot;&gt;link.att.com/MrHandsome&lt;/a&gt;&lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;  &lt;/p&gt;</summary>
+    <author>
+      <name>Martin P McEnroe</name>
+    </author>
+    <updated>2016-01-22T15:08:05.263-08:00</updated>
+    <link rel="alternate" href="https://tspace.web.att.com/forums/html/topic?id=be002bfd-9ad9-4332-8f19-c2baaeb0d6e7#4c8391f6-8a46-43a6-a81c-a8eb311ced60"/>
+    <content type="application/xml">
+      <activityEntry xmlns="http://ns.opensocial.org/2008/opensocial">
+        <actor>
+          <displayName>Martin P McEnroe</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:9c4a03c0-f091-102d-9e2a-8721496765cd</id>
+          <objectType>person</objectType>
+        </actor>
+        <generator>
+          <displayName>Forums</displayName>
+          <id>forums</id>
+          <image/>
+          <url>https://tspace.web.att.com/forums</url>
+        </generator>
+        <id>urn:lsid:lconn.ibm.com:forums.story:cd7bf09f-850f-4131-8d23-94ea771a0e8a</id>
+        <object>
+          <author>
+            <displayName>Martin P McEnroe</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:9c4a03c0-f091-102d-9e2a-8721496765cd</id>
+            <objectType>person</objectType>
+          </author>
+          <displayName>Re: AT&amp;T URL Shortener, now with Vanity Aliases!</displayName>
+          <id>urn:lsid:lconn.ibm.com:forums.comment:4c8391f6-8a46-43a6-a81c-a8eb311ced60</id>
+          <objectType>comment</objectType>
+          <published>2016-01-22T23:08:04.985Z</published>
+          <summary>&lt;p dir=&quot;ltr&quot;&gt;You mean like this? &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;  &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;&lt;a href=&quot;http://link.att.com/MrHandsome&quot;&gt;link.att.com/MrHandsome&lt;/a&gt;&lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;  &lt;/p&gt;</summary>
+          <updated>2016-01-22T23:08:04.985Z</updated>
+          <url>https://tspace.web.att.com/forums/html/topic?id=be002bfd-9ad9-4332-8f19-c2baaeb0d6e7#4c8391f6-8a46-43a6-a81c-a8eb311ced60</url>
+        </object>
+        <provider>
+          <displayName>IBM Connections - News Service</displayName>
+          <id>http://www.ibm.com/xmlns/prod/sn</id>
+          <url>https://tspace.web.att.com/news</url>
+        </provider>
+        <published>2016-01-22T23:08:05.263Z</published>
+        <target>
+          <author>
+            <displayName>Bill Knotts</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+            <objectType>person</objectType>
+          </author>
+          <displayName>AT&amp;amp;T URL Shortener, now with Vanity Aliases!</displayName>
+          <id>urn:lsid:lconn.ibm.com:forums.article:be002bfd-9ad9-4332-8f19-c2baaeb0d6e7</id>
+          <objectType>article</objectType>
+          <published>2016-01-22T23:08:04.985Z</published>
+          <summary>&lt;p dir=&quot;ltr&quot;&gt; Did you know that &lt;a href=&quot;https://shorten.web.att.com&quot;&gt;AT&amp;amp;T&amp;nbsp;has&amp;nbsp;its&amp;nbsp;very&amp;nbsp;own&amp;nbsp;URL&amp;nbsp;Shortener&lt;/a&gt;? &amp;nbsp;One that works for internal URL&apos;s and supports &apos;vanity&apos; short links? &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt; An example of what this does for you would be: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; You have a tSpace Community, which tend to expose a long and difficult to remember URL:&amp;nbsp; &lt;br /&gt; &lt;a href=&quot;https://tspace.web.att.com/communities/service/html/communitystart?communityUuid=553bd02e-c8c2-4aa8-9bf0-93630920652d&quot;&gt;https://tspace.web.att.com/communities/service/html/communitystart?communityUuid=553bd02e-c8c2-4aa8-9bf0-93630920652d&lt;/a&gt; &lt;/li&gt; &lt;li&gt; You go to Canary Shorten and create an alias for that address: &lt;br /&gt; &apos; &lt;em&gt;DataNightLive &lt;/em&gt;&apos; &lt;/li&gt; &lt;li&gt; Canary Shorten creates a shortened link that resolves to your tSpace Community and is much nicer to share with others (not to mention easier to remember): &lt;br /&gt; &lt;a href=&quot;http://link.att.com/DataNightLive&quot;&gt;http://link.att.com/DataNightLive&lt;/a&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p dir=&quot;ltr&quot;&gt; If you don&apos;t really care to create a vanity alias, you can also let Canary Shorten generate the alias for you. &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt; Go to &lt;a href=&quot;https://shorten.web.att.com&quot;&gt;Canary&amp;nbsp;Shorten&lt;/a&gt;&amp;nbsp;and give it a try! &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt; &lt;a href=&quot;https://shorten.web.att.com&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;https://tspace.web.att.com/forums/ajax/download?nodeId=f6d55aa0-6f91-4010-85f4-6f49d6e72b99&quot; title=&quot;Canary Shortener Screenshot&quot; /&gt;&lt;/a&gt; &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt; &amp;nbsp; &lt;/p&gt;</summary>
+          <updated>2016-01-22T23:08:04.985Z</updated>
+          <url>https://tspace.web.att.com/forums/html/topic?id=be002bfd-9ad9-4332-8f19-c2baaeb0d6e7</url>
+        </target>
+        <title>Martin P McEnroe replied to the AT&amp;T URL Shortener, now with Vanity Aliases! topic thread in the General Topics Forum forum.</title>
+        <url>https://tspace.web.att.com/connections/opensocial/basic/rest/activitystreams/@public/@all/@all/urn:lsid:lconn.ibm.com:forums.story:cd7bf09f-850f-4131-8d23-94ea771a0e8a?format=atom</url>
+        <verb>post</verb>
+      </activityEntry>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:lsid:lconn.ibm.com:forums.story:a8769d38-e6db-4dfe-bdc0-9610d44fdf8b</id>
+    <title>Bill Knotts created the MSP Encryption and Encryption Tool Forum forum.</title>
+    <summary type="html">This forum is strictly use to discuss any concern or clarification required for MSP encryption and Encryption tool.</summary>
+    <author>
+      <name>Bill Knotts</name>
+    </author>
+    <updated>2016-01-19T09:35:45.571-08:00</updated>
+    <link rel="alternate" href="https://tspace.web.att.com/forums/html/forum?id=e857365c-c111-44dc-ab52-57b9b8711ea4"/>
+    <content type="application/xml">
+      <activityEntry xmlns="http://ns.opensocial.org/2008/opensocial">
+        <actor>
+          <displayName>Bill Knotts</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+          <objectType>person</objectType>
+        </actor>
+        <generator>
+          <displayName>Forums</displayName>
+          <id>forums</id>
+          <image/>
+          <url>https://tspace.web.att.com/forums</url>
+        </generator>
+        <id>urn:lsid:lconn.ibm.com:forums.story:a8769d38-e6db-4dfe-bdc0-9610d44fdf8b</id>
+        <object>
+          <author>
+            <displayName>Bill Knotts</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+            <objectType>person</objectType>
+          </author>
+          <displayName>MSP Encryption and Encryption Tool Forum</displayName>
+          <id>urn:lsid:lconn.ibm.com:forums.forum:e857365c-c111-44dc-ab52-57b9b8711ea4</id>
+          <objectType>forum</objectType>
+          <published>2016-01-19T17:35:45.100Z</published>
+          <summary>This forum is strictly use to discuss any concern or clarification required for MSP encryption and Encryption tool.</summary>
+          <updated>2016-01-19T17:35:45.100Z</updated>
+          <url>https://tspace.web.att.com/forums/html/forum?id=e857365c-c111-44dc-ab52-57b9b8711ea4</url>
+        </object>
+        <provider>
+          <displayName>IBM Connections - News Service</displayName>
+          <id>http://www.ibm.com/xmlns/prod/sn</id>
+          <url>https://tspace.web.att.com/news</url>
+        </provider>
+        <published>2016-01-19T17:35:45.571Z</published>
+        <title>Bill Knotts created the MSP Encryption and Encryption Tool Forum forum.</title>
+        <url>https://tspace.web.att.com/connections/opensocial/basic/rest/activitystreams/@public/@all/@all/urn:lsid:lconn.ibm.com:forums.story:a8769d38-e6db-4dfe-bdc0-9610d44fdf8b?format=atom</url>
+        <verb>post</verb>
+      </activityEntry>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:lsid:lconn.ibm.com:forums.story:ccfa5d32-6696-4d9b-b3e1-0c5c0ee4518f</id>
+    <title>Bill Knotts created the Big Data Compliance and Security Community forum.</title>
+    <summary type="html"></summary>
+    <author>
+      <name>Bill Knotts</name>
+    </author>
+    <updated>2016-01-18T12:17:05.623-08:00</updated>
+    <link rel="alternate" href="https://tspace.web.att.com/forums/html/forum?id=214cccb1-4577-41df-a2e3-79bc85b157de"/>
+    <content type="application/xml">
+      <activityEntry xmlns="http://ns.opensocial.org/2008/opensocial">
+        <actor>
+          <displayName>Bill Knotts</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+          <objectType>person</objectType>
+        </actor>
+        <generator>
+          <displayName>Forums</displayName>
+          <id>forums</id>
+          <image/>
+          <url>https://tspace.web.att.com/forums</url>
+        </generator>
+        <id>urn:lsid:lconn.ibm.com:forums.story:ccfa5d32-6696-4d9b-b3e1-0c5c0ee4518f</id>
+        <object>
+          <author>
+            <displayName>Bill Knotts</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+            <objectType>person</objectType>
+          </author>
+          <displayName>Big Data Compliance and Security Community</displayName>
+          <id>urn:lsid:lconn.ibm.com:forums.forum:214cccb1-4577-41df-a2e3-79bc85b157de</id>
+          <objectType>forum</objectType>
+          <published>2016-01-18T20:17:05.275Z</published>
+          <summary></summary>
+          <updated>2016-01-18T20:17:05.275Z</updated>
+          <url>https://tspace.web.att.com/forums/html/forum?id=214cccb1-4577-41df-a2e3-79bc85b157de</url>
+        </object>
+        <provider>
+          <displayName>IBM Connections - News Service</displayName>
+          <id>http://www.ibm.com/xmlns/prod/sn</id>
+          <url>https://tspace.web.att.com/news</url>
+        </provider>
+        <published>2016-01-18T20:17:05.623Z</published>
+        <title>Bill Knotts created the Big Data Compliance and Security Community forum.</title>
+        <url>https://tspace.web.att.com/connections/opensocial/basic/rest/activitystreams/@public/@all/@all/urn:lsid:lconn.ibm.com:forums.story:ccfa5d32-6696-4d9b-b3e1-0c5c0ee4518f?format=atom</url>
+        <verb>post</verb>
+      </activityEntry>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:lsid:lconn.ibm.com:communities.story:c84a6a63-638e-42c8-a863-34b25a955f00</id>
+    <title>Bill Knotts created a subcommunity named Big Data Compliance and Security Community.</title>
+    <summary type="html">&lt;p dir=&quot;ltr&quot;&gt;Knowledge Share and Interactive Community for ASPR. &lt;/p&gt;</summary>
+    <author>
+      <name>Bill Knotts</name>
+    </author>
+    <updated>2016-01-18T12:17:04.674-08:00</updated>
+    <link rel="alternate" href="https://tspace.web.att.com/communities/service/html/communityview?communityUuid=aa04967f-e9d3-4321-bdb1-e744efa0396e"/>
+    <content type="application/xml">
+      <activityEntry xmlns="http://ns.opensocial.org/2008/opensocial">
+        <actor>
+          <displayName>Bill Knotts</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+          <objectType>person</objectType>
+        </actor>
+        <generator>
+          <displayName>Communities</displayName>
+          <id>communities</id>
+          <image/>
+          <url>https://tspace.web.att.com/communities</url>
+        </generator>
+        <id>urn:lsid:lconn.ibm.com:communities.story:c84a6a63-638e-42c8-a863-34b25a955f00</id>
+        <object>
+          <displayName>Big Data Compliance and Security Community</displayName>
+          <id>urn:lsid:lconn.ibm.com:communities.community:aa04967f-e9d3-4321-bdb1-e744efa0396e</id>
+          <objectType>community</objectType>
+          <summary>&lt;p dir=&quot;ltr&quot;&gt;Knowledge Share and Interactive Community for ASPR. &lt;/p&gt;</summary>
+          <url>https://tspace.web.att.com/communities/service/html/communityview?communityUuid=aa04967f-e9d3-4321-bdb1-e744efa0396e</url>
+        </object>
+        <provider>
+          <displayName>IBM Connections - News Service</displayName>
+          <id>http://www.ibm.com/xmlns/prod/sn</id>
+          <url>https://tspace.web.att.com/news</url>
+        </provider>
+        <published>2016-01-18T20:17:04.674Z</published>
+        <target>
+          <displayName>Big Data at AT&amp;amp;T</displayName>
+          <id>urn:lsid:lconn.ibm.com:communities.community:55309c7c-c95f-4671-86ed-5488209d3745</id>
+          <objectType>community</objectType>
+          <summary></summary>
+          <url>https://tspace.web.att.com/communities/service/html/communityview?communityUuid=55309c7c-c95f-4671-86ed-5488209d3745</url>
+        </target>
+        <title>Bill Knotts created a subcommunity named Big Data Compliance and Security Community.</title>
+        <url>https://tspace.web.att.com/connections/opensocial/basic/rest/activitystreams/@public/@all/@all/urn:lsid:lconn.ibm.com:communities.story:c84a6a63-638e-42c8-a863-34b25a955f00?format=atom</url>
+        <verb>post</verb>
+      </activityEntry>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:lsid:lconn.ibm.com:forums.story:59c58c94-c842-43d0-886a-5fc6fcc59294</id>
+    <title>James H Pratt replied to the Safari client cert required to access tspace topic thread in the Mac Support forum.</title>
+    <summary type="html">&lt;p dir=&quot;ltr&quot;&gt;Yes, I have it. i just hit cancel and it goes away for that tab. &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;  &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;In the past, I&apos;ve tried to delete the Key Access certificate and it has required the certificate, but it &quot;came back&quot; after &quot;some use&quot;. &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;  &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;Similar problems as this: &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;&lt;a href=&quot;http://apple.stackexchange.com/questions/94379/safari-not-accepting-website-certificate&quot;&gt;http://apple.stackexchange.com/questions/94379/safari-not-accepting-website-certificate&lt;/a&gt;&lt;/p&gt;</summary>
+    <author>
+      <name>James H Pratt</name>
+    </author>
+    <updated>2016-01-12T07:59:25.265-08:00</updated>
+    <link rel="alternate" href="https://tspace.web.att.com/forums/html/topic?id=4fc3b285-3ab4-493b-aa6b-e00d0e7f581a#a0a0a7a6-50b6-46f9-9d6a-3b7dec00b598"/>
+    <content type="application/xml">
+      <activityEntry xmlns="http://ns.opensocial.org/2008/opensocial">
+        <actor>
+          <displayName>James H Pratt</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:df9b4b40-eeb4-102d-9660-8721496765cd</id>
+          <objectType>person</objectType>
+        </actor>
+        <generator>
+          <displayName>Forums</displayName>
+          <id>forums</id>
+          <image/>
+          <url>https://tspace.web.att.com/forums</url>
+        </generator>
+        <id>urn:lsid:lconn.ibm.com:forums.story:59c58c94-c842-43d0-886a-5fc6fcc59294</id>
+        <object>
+          <author>
+            <displayName>James H Pratt</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:df9b4b40-eeb4-102d-9660-8721496765cd</id>
+            <objectType>person</objectType>
+          </author>
+          <displayName>Re: Safari client cert required to access tspace</displayName>
+          <id>urn:lsid:lconn.ibm.com:forums.comment:a0a0a7a6-50b6-46f9-9d6a-3b7dec00b598</id>
+          <objectType>comment</objectType>
+          <published>2016-01-12T15:59:25.200Z</published>
+          <summary>&lt;p dir=&quot;ltr&quot;&gt;Yes, I have it. i just hit cancel and it goes away for that tab. &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;  &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;In the past, I&apos;ve tried to delete the Key Access certificate and it has required the certificate, but it &quot;came back&quot; after &quot;some use&quot;. &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;  &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;Similar problems as this: &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;&lt;a href=&quot;http://apple.stackexchange.com/questions/94379/safari-not-accepting-website-certificate&quot;&gt;http://apple.stackexchange.com/questions/94379/safari-not-accepting-website-certificate&lt;/a&gt;&lt;/p&gt;</summary>
+          <updated>2016-01-12T15:59:25.200Z</updated>
+          <url>https://tspace.web.att.com/forums/html/topic?id=4fc3b285-3ab4-493b-aa6b-e00d0e7f581a#a0a0a7a6-50b6-46f9-9d6a-3b7dec00b598</url>
+        </object>
+        <provider>
+          <displayName>IBM Connections - News Service</displayName>
+          <id>http://www.ibm.com/xmlns/prod/sn</id>
+          <url>https://tspace.web.att.com/news</url>
+        </provider>
+        <published>2016-01-12T15:59:25.265Z</published>
+        <target>
+          <author>
+            <displayName>Dan Flynn</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:6169c940-229f-1032-9b47-ab92f7fd8bf1</id>
+            <objectType>person</objectType>
+          </author>
+          <displayName>Safari client cert required to access tspace</displayName>
+          <id>urn:lsid:lconn.ibm.com:forums.article:4fc3b285-3ab4-493b-aa6b-e00d0e7f581a</id>
+          <objectType>article</objectType>
+          <published>2016-01-12T15:59:25.200Z</published>
+          <summary>&lt;p dir=&quot;ltr&quot;&gt; Is anyone else having issues with Safari connecting to tspace? &amp;nbsp;When I try to connect to most any tspace page, I get an error when using Safari. &amp;nbsp;The error indicates that Safari is lacking a client certificate to present to tspace for authentication. &amp;nbsp;I don&apos;t get this same error with Chrome or Firefox. &amp;nbsp;When I get the error, sometimes the page loads and sometimes it does not, but it always pops up this really annoying dialog box asking for the correct client certificate. &amp;nbsp;If anyone else has run into this issue and resolved it within Safari, I would love to know what the solution is. &amp;nbsp;Yes, I can use Chrome or Firefox, but I primarily use Safari and don&apos;t want to switch primary browsers if I don&apos;t have to. &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt; &amp;nbsp; &lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt; &lt;img src=&quot;https://tspace.web.att.com/forums/ajax/download?nodeId=c7978219-d9ae-41f9-b035-4549bf222db9&quot; /&gt; &lt;/p&gt;</summary>
+          <updated>2016-01-12T15:59:25.200Z</updated>
+          <url>https://tspace.web.att.com/forums/html/topic?id=4fc3b285-3ab4-493b-aa6b-e00d0e7f581a</url>
+        </target>
+        <title>James H Pratt replied to the Safari client cert required to access tspace topic thread in the Mac Support forum.</title>
+        <url>https://tspace.web.att.com/connections/opensocial/basic/rest/activitystreams/@public/@all/@all/urn:lsid:lconn.ibm.com:forums.story:59c58c94-c842-43d0-886a-5fc6fcc59294?format=atom</url>
+        <verb>post</verb>
+      </activityEntry>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:lsid:lconn.ibm.com:files.story:e6ec5e94-f070-401a-9cef-77782235e7ee</id>
+    <title>Bill Knotts commented on a file.</title>
+    <summary type="html">Hi Wesley - &lt;br /&gt; &lt;br /&gt;This file extension requires Freeplane (a &apos;mind map&apos; application). You can get Freeplane by following the &apos;How to Acquire&apos; info at the bottom of this page - &lt;a href=&quot;http://tss.att.com/detail.cfm?product_id=6648&quot; target=&quot;_blank&quot;&gt;http://tss.att.com/detail.cfm?product_id=6648&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;Or you could grab it directly from the Freeplane site (but you didn&apos;t hear that from me...)</summary>
+    <author>
+      <name>Bill Knotts</name>
+    </author>
+    <updated>2016-01-11T09:04:16.427-08:00</updated>
+    <link rel="alternate" href="https://tspace.web.att.com/communities/service/html/communityview?communityUuid=8088d92b-28fd-4aa9-9086-3e9914d01225#fullpageWidgetId=W21a4a690e396_4e4d_a41e_450fc70cef61&amp;file=12122a8c-77d9-4444-b6b6-e462d980826c&amp;comment=d63c497a-4df3-41d9-ae1c-1dfa57cace88"/>
+    <content type="application/xml">
+      <activityEntry xmlns="http://ns.opensocial.org/2008/opensocial">
+        <actor>
+          <displayName>Bill Knotts</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+          <objectType>person</objectType>
+        </actor>
+        <generator>
+          <displayName>Files</displayName>
+          <id>files</id>
+          <image/>
+          <url>https://tspace.web.att.com/files</url>
+        </generator>
+        <id>urn:lsid:lconn.ibm.com:files.story:e6ec5e94-f070-401a-9cef-77782235e7ee</id>
+        <object>
+          <author>
+            <displayName>Bill Knotts</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+            <objectType>person</objectType>
+          </author>
+          <id>urn:lsid:lconn.ibm.com:files.comment:d63c497a-4df3-41d9-ae1c-1dfa57cace88</id>
+          <objectType>comment</objectType>
+          <published>2016-01-11T17:04:16.397Z</published>
+          <summary>Hi Wesley - &lt;br /&gt; &lt;br /&gt;This file extension requires Freeplane (a &apos;mind map&apos; application). You can get Freeplane by following the &apos;How to Acquire&apos; info at the bottom of this page - &lt;a href=&quot;http://tss.att.com/detail.cfm?product_id=6648&quot; target=&quot;_blank&quot;&gt;http://tss.att.com/detail.cfm?product_id=6648&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;Or you could grab it directly from the Freeplane site (but you didn&apos;t hear that from me...)</summary>
+          <updated>2016-01-11T17:04:16.397Z</updated>
+          <url>https://tspace.web.att.com/communities/service/html/communityview?communityUuid=8088d92b-28fd-4aa9-9086-3e9914d01225#fullpageWidgetId=W21a4a690e396_4e4d_a41e_450fc70cef61&amp;file=12122a8c-77d9-4444-b6b6-e462d980826c&amp;comment=d63c497a-4df3-41d9-ae1c-1dfa57cace88</url>
+        </object>
+        <provider>
+          <displayName>IBM Connections - News Service</displayName>
+          <id>http://www.ibm.com/xmlns/prod/sn</id>
+          <url>https://tspace.web.att.com/news</url>
+        </provider>
+        <published>2016-01-11T17:04:16.427Z</published>
+        <target>
+          <author>
+            <displayName>Wiley C Wilkins</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:4a32d5c0-3e54-102d-83a9-ea7d09a572f2</id>
+            <objectType>person</objectType>
+          </author>
+          <displayName>Data Analytics Strategy.mm</displayName>
+          <id>urn:lsid:lconn.ibm.com:files.file:12122a8c-77d9-4444-b6b6-e462d980826c</id>
+          <objectType>file</objectType>
+          <published>2016-01-11T16:47:14.500Z</published>
+          <summary></summary>
+          <updated>2016-01-11T16:47:14.500Z</updated>
+          <url>https://tspace.web.att.com/communities/service/html/communityview?communityUuid=8088d92b-28fd-4aa9-9086-3e9914d01225#fullpageWidgetId=W21a4a690e396_4e4d_a41e_450fc70cef61&amp;file=12122a8c-77d9-4444-b6b6-e462d980826c</url>
+        </target>
+        <title>Bill Knotts commented on a file.</title>
+        <url>https://tspace.web.att.com/connections/opensocial/basic/rest/activitystreams/@public/@all/@all/urn:lsid:lconn.ibm.com:files.story:e6ec5e94-f070-401a-9cef-77782235e7ee?format=atom</url>
+        <verb>post</verb>
+      </activityEntry>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:lsid:lconn.ibm.com:profiles.story:2e1f6ab3-d058-4379-a64e-3accfffdbf32</id>
+    <title>Wiley C Wilkins liked Bill Knotts&apos;s comment posted to James H Pratt.</title>
+    <summary type="html">&lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=4a32d5c0-3e54-102d-83a9-ea7d09a572f2&quot;&gt;@Wiley C Wilkins&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;4a32d5c0-3e54-102d-83a9-ea7d09a572f2&lt;/span&gt;&lt;/span&gt; - name check...</summary>
+    <author>
+      <name>Wiley C Wilkins</name>
+    </author>
+    <updated>2015-11-13T06:02:45.535-08:00</updated>
+    <link rel="alternate" href="https://tspace.web.att.com/profiles/html/profileView.do?userid=df9b4b40-eeb4-102d-9660-8721496765cd&amp;entryId=9ed08726-f659-4574-a880-ac500d9e73ca"/>
+    <content type="application/xml">
+      <activityEntry xmlns="http://ns.opensocial.org/2008/opensocial">
+        <actor>
+          <displayName>Wiley C Wilkins</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:4a32d5c0-3e54-102d-83a9-ea7d09a572f2</id>
+          <objectType>person</objectType>
+        </actor>
+        <generator>
+          <displayName>Profiles</displayName>
+          <id>profiles</id>
+          <image/>
+          <url>https://tspace.web.att.com/profiles</url>
+        </generator>
+        <id>urn:lsid:lconn.ibm.com:profiles.story:2e1f6ab3-d058-4379-a64e-3accfffdbf32</id>
+        <object>
+          <author>
+            <displayName>Bill Knotts</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+            <objectType>person</objectType>
+          </author>
+          <id>urn:lsid:lconn.ibm.com:profiles.comment:9ada2f37-b238-4f3a-8b27-7b8e5ba9160f</id>
+          <objectType>comment</objectType>
+          <published>2015-10-13T13:08:58.918Z</published>
+          <summary>&lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=4a32d5c0-3e54-102d-83a9-ea7d09a572f2&quot;&gt;@Wiley C Wilkins&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;4a32d5c0-3e54-102d-83a9-ea7d09a572f2&lt;/span&gt;&lt;/span&gt; - name check...</summary>
+          <updated>2015-10-13T13:08:58.918Z</updated>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=df9b4b40-eeb4-102d-9660-8721496765cd&amp;entryId=9ed08726-f659-4574-a880-ac500d9e73ca</url>
+        </object>
+        <provider>
+          <displayName>IBM Connections - News Service</displayName>
+          <id>http://www.ibm.com/xmlns/prod/sn</id>
+          <url>https://tspace.web.att.com/news</url>
+        </provider>
+        <published>2015-11-13T14:02:45.535Z</published>
+        <target>
+          <author>
+            <displayName>James H Pratt</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:df9b4b40-eeb4-102d-9660-8721496765cd</id>
+            <objectType>person</objectType>
+          </author>
+          <displayName>James H Pratt</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.note:9ed08726-f659-4574-a880-ac500d9e73ca</id>
+          <objectType>note</objectType>
+          <published>2015-11-13T14:02:45.535Z</published>
+          <summary>Hey &lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&quot;&gt;@Bill Knotts &lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;4901a8c0-3e54-102d-937f-ea7d09a572f2&lt;/span&gt;&lt;/span&gt; have you tried @ mentions yet? I&apos;m testing to see if I get mobile notifications of them. I am not getting any mobile notifications on iOS even though it&apos;s set to send them.</summary>
+          <updated>2015-11-13T14:02:45.535Z</updated>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=df9b4b40-eeb4-102d-9660-8721496765cd&amp;entryId=9ed08726-f659-4574-a880-ac500d9e73ca</url>
+        </target>
+        <title>Wiley C Wilkins liked Bill Knotts&apos;s comment posted to James H Pratt.</title>
+        <url>https://tspace.web.att.com/connections/opensocial/basic/rest/activitystreams/@public/@all/@all/urn:lsid:lconn.ibm.com:profiles.story:2e1f6ab3-d058-4379-a64e-3accfffdbf32?format=atom</url>
+        <verb>like</verb>
+      </activityEntry>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:lsid:lconn.ibm.com:profiles.story:e8938bb6-0c5f-49b7-a275-5123090caa66</id>
+    <title>James H Pratt liked Bill Knotts&apos;s message.</title>
+    <summary type="html">&lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=df9b4b40-eeb4-102d-9660-8721496765cd&quot;&gt;@James H Pratt&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;df9b4b40-eeb4-102d-9660-8721496765cd&lt;/span&gt;&lt;/span&gt; - wondering if #hashtags work as expected?</summary>
+    <author>
+      <name>James H Pratt</name>
+    </author>
+    <updated>2015-10-13T07:58:48.069-07:00</updated>
+    <link rel="alternate" href="https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&amp;entryId=b6c6e4bb-4cf1-42b4-8957-2e1b84e6ab2c"/>
+    <content type="application/xml">
+      <activityEntry xmlns="http://ns.opensocial.org/2008/opensocial">
+        <actor>
+          <displayName>James H Pratt</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:df9b4b40-eeb4-102d-9660-8721496765cd</id>
+          <objectType>person</objectType>
+        </actor>
+        <generator>
+          <displayName>Profiles</displayName>
+          <id>profiles</id>
+          <image/>
+          <url>https://tspace.web.att.com/profiles</url>
+        </generator>
+        <id>urn:lsid:lconn.ibm.com:profiles.story:e8938bb6-0c5f-49b7-a275-5123090caa66</id>
+        <object>
+          <author>
+            <displayName>Bill Knotts</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+            <objectType>person</objectType>
+          </author>
+          <id>urn:lsid:lconn.ibm.com:profiles.note:b6c6e4bb-4cf1-42b4-8957-2e1b84e6ab2c</id>
+          <objectType>note</objectType>
+          <published>2015-10-13T14:58:48.069Z</published>
+          <summary>&lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=df9b4b40-eeb4-102d-9660-8721496765cd&quot;&gt;@James H Pratt&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;df9b4b40-eeb4-102d-9660-8721496765cd&lt;/span&gt;&lt;/span&gt; - wondering if #hashtags work as expected?</summary>
+          <updated>2015-10-13T14:58:48.069Z</updated>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&amp;entryId=b6c6e4bb-4cf1-42b4-8957-2e1b84e6ab2c</url>
+        </object>
+        <provider>
+          <displayName>IBM Connections - News Service</displayName>
+          <id>http://www.ibm.com/xmlns/prod/sn</id>
+          <url>https://tspace.web.att.com/news</url>
+        </provider>
+        <published>2015-10-13T14:58:48.069Z</published>
+        <target>
+          <displayName>Bill Knotts</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+          <objectType>person</objectType>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2</url>
+        </target>
+        <title>James H Pratt liked Bill Knotts&apos;s message.</title>
+        <url>https://tspace.web.att.com/connections/opensocial/basic/rest/activitystreams/@public/@all/@all/urn:lsid:lconn.ibm.com:profiles.story:e8938bb6-0c5f-49b7-a275-5123090caa66?format=atom</url>
+        <verb>like</verb>
+      </activityEntry>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:lsid:lconn.ibm.com:profiles.story:e3d3b70a-6d1b-450a-bb9f-f1b66fcd6d11</id>
+    <title>Bill Christian commented on Bill Knotts&apos;s message.</title>
+    <summary type="html">Perhaps there is some truth to the rumors of Hotel California.</summary>
+    <author>
+      <name>Bill Christian</name>
+    </author>
+    <updated>2014-08-18T07:16:25.471-07:00</updated>
+    <link rel="alternate" href="https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&amp;entryId=46cb4469-2e61-4f2e-a2d5-9225d56a43ff"/>
+    <content type="application/xml">
+      <activityEntry xmlns="http://ns.opensocial.org/2008/opensocial">
+        <actor>
+          <displayName>Bill Christian</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:47d07bc0-3e54-102d-8986-ea7d09a572f2</id>
+          <objectType>person</objectType>
+        </actor>
+        <generator>
+          <displayName>Profiles</displayName>
+          <id>profiles</id>
+          <image/>
+          <url>https://tspace.web.att.com/profiles</url>
+        </generator>
+        <id>urn:lsid:lconn.ibm.com:profiles.story:e3d3b70a-6d1b-450a-bb9f-f1b66fcd6d11</id>
+        <object>
+          <author>
+            <displayName>Bill Christian</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:47d07bc0-3e54-102d-8986-ea7d09a572f2</id>
+            <objectType>person</objectType>
+          </author>
+          <id>urn:lsid:lconn.ibm.com:profiles.comment:44f7a28f-cbbf-4e3c-9a50-64fb9028c471</id>
+          <objectType>comment</objectType>
+          <published>2014-08-18T14:16:25.471Z</published>
+          <summary>Perhaps there is some truth to the rumors of Hotel California.</summary>
+          <updated>2014-08-18T14:16:25.471Z</updated>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&amp;entryId=46cb4469-2e61-4f2e-a2d5-9225d56a43ff</url>
+        </object>
+        <provider>
+          <displayName>IBM Connections - News Service</displayName>
+          <id>http://www.ibm.com/xmlns/prod/sn</id>
+          <url>https://tspace.web.att.com/news</url>
+        </provider>
+        <published>2014-08-18T14:16:25.471Z</published>
+        <target>
+          <author>
+            <displayName>Bill Knotts</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+            <objectType>person</objectType>
+          </author>
+          <displayName>Bill Knotts</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.note:46cb4469-2e61-4f2e-a2d5-9225d56a43ff</id>
+          <objectType>note</objectType>
+          <published>2014-08-18T14:16:25.471Z</published>
+          <summary>All the original member of The Ramones have passed away yet all of The Eagles are still around. What a world...</summary>
+          <updated>2014-08-18T14:16:25.471Z</updated>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&amp;entryId=46cb4469-2e61-4f2e-a2d5-9225d56a43ff</url>
+        </target>
+        <title>Bill Christian commented on Bill Knotts&apos;s message.</title>
+        <url>https://tspace.web.att.com/connections/opensocial/basic/rest/activitystreams/@public/@all/@all/urn:lsid:lconn.ibm.com:profiles.story:e3d3b70a-6d1b-450a-bb9f-f1b66fcd6d11?format=atom</url>
+        <verb>post</verb>
+      </activityEntry>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:lsid:lconn.ibm.com:profiles.story:dc249180-469a-40e0-ad92-aa9316b626a7</id>
+    <title>Bill Knotts commented on Matt E Dugan&apos;s message.</title>
+    <summary type="html">Wow - now I feel all invigorated and stuff.</summary>
+    <author>
+      <name>Bill Knotts</name>
+    </author>
+    <updated>2014-05-27T11:32:45.435-07:00</updated>
+    <link rel="alternate" href="https://tspace.web.att.com/profiles/html/profileView.do?userid=541614c0-7437-1033-8e29-db8f6b89ae33&amp;entryId=f2cd160a-70e5-44a3-8b9b-04c5bc6a05bd"/>
+    <content type="application/xml">
+      <activityEntry xmlns="http://ns.opensocial.org/2008/opensocial">
+        <actor>
+          <displayName>Bill Knotts</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+          <objectType>person</objectType>
+        </actor>
+        <generator>
+          <displayName>Profiles</displayName>
+          <id>profiles</id>
+          <image/>
+          <url>https://tspace.web.att.com/profiles</url>
+        </generator>
+        <id>urn:lsid:lconn.ibm.com:profiles.story:dc249180-469a-40e0-ad92-aa9316b626a7</id>
+        <object>
+          <author>
+            <displayName>Bill Knotts</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+            <objectType>person</objectType>
+          </author>
+          <id>urn:lsid:lconn.ibm.com:profiles.comment:4bf7d30e-64d5-46f6-8d1d-eab4022bcbb6</id>
+          <objectType>comment</objectType>
+          <published>2014-05-27T18:32:45.436Z</published>
+          <summary>Wow - now I feel all invigorated and stuff.</summary>
+          <updated>2014-05-27T18:32:45.436Z</updated>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=541614c0-7437-1033-8e29-db8f6b89ae33&amp;entryId=f2cd160a-70e5-44a3-8b9b-04c5bc6a05bd</url>
+        </object>
+        <provider>
+          <displayName>IBM Connections - News Service</displayName>
+          <id>http://www.ibm.com/xmlns/prod/sn</id>
+          <url>https://tspace.web.att.com/news</url>
+        </provider>
+        <published>2014-05-27T18:32:45.435Z</published>
+        <target>
+          <author>
+            <displayName>Matt E Dugan</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:541614c0-7437-1033-8e29-db8f6b89ae33</id>
+            <objectType>person</objectType>
+          </author>
+          <displayName>Matt E Dugan</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.note:f2cd160a-70e5-44a3-8b9b-04c5bc6a05bd</id>
+          <objectType>note</objectType>
+          <published>2014-05-27T18:32:45.436Z</published>
+          <summary>&quot;Then it comes to be that the soothing light at the end of the your tunnel was just a freight train coming your way.. Yea&quot; - James Hetfield &amp; Lars Ulrich (Metallica)</summary>
+          <updated>2014-05-27T18:32:45.436Z</updated>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=541614c0-7437-1033-8e29-db8f6b89ae33&amp;entryId=f2cd160a-70e5-44a3-8b9b-04c5bc6a05bd</url>
+        </target>
+        <title>Bill Knotts commented on Matt E Dugan&apos;s message.</title>
+        <url>https://tspace.web.att.com/connections/opensocial/basic/rest/activitystreams/@public/@all/@all/urn:lsid:lconn.ibm.com:profiles.story:dc249180-469a-40e0-ad92-aa9316b626a7?format=atom</url>
+        <verb>post</verb>
+      </activityEntry>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:lsid:lconn.ibm.com:profiles.story:194564d6-6a45-435b-94ad-ca41f7154f24</id>
+    <title>David R Hudgins commented on Bill Knotts&apos;s message.</title>
+    <summary type="html">4 times?</summary>
+    <author>
+      <name>David R Hudgins</name>
+    </author>
+    <updated>2014-02-11T14:52:08.389-08:00</updated>
+    <link rel="alternate" href="https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&amp;entryId=8b54970f-de42-404b-b33a-4c471b51ca5d"/>
+    <content type="application/xml">
+      <activityEntry xmlns="http://ns.opensocial.org/2008/opensocial">
+        <actor>
+          <displayName>David R Hudgins</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:0d50a7c0-ee55-102d-9038-8721496765cd</id>
+          <objectType>person</objectType>
+        </actor>
+        <generator>
+          <displayName>Profiles</displayName>
+          <id>profiles</id>
+          <image/>
+          <url>https://tspace.web.att.com/profiles</url>
+        </generator>
+        <id>urn:lsid:lconn.ibm.com:profiles.story:194564d6-6a45-435b-94ad-ca41f7154f24</id>
+        <object>
+          <author>
+            <displayName>David R Hudgins</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:0d50a7c0-ee55-102d-9038-8721496765cd</id>
+            <objectType>person</objectType>
+          </author>
+          <id>urn:lsid:lconn.ibm.com:profiles.comment:57725bc9-67ac-4fe8-badb-5e741b3548ed</id>
+          <objectType>comment</objectType>
+          <published>2014-02-11T22:52:08.389Z</published>
+          <summary>4 times?</summary>
+          <updated>2014-02-11T22:52:08.389Z</updated>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&amp;entryId=8b54970f-de42-404b-b33a-4c471b51ca5d</url>
+        </object>
+        <provider>
+          <displayName>IBM Connections - News Service</displayName>
+          <id>http://www.ibm.com/xmlns/prod/sn</id>
+          <url>https://tspace.web.att.com/news</url>
+        </provider>
+        <published>2014-02-11T22:52:08.389Z</published>
+        <target>
+          <author>
+            <displayName>Bill Knotts</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+            <objectType>person</objectType>
+          </author>
+          <displayName>Bill Knotts</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.note:8b54970f-de42-404b-b33a-4c471b51ca5d</id>
+          <objectType>note</objectType>
+          <published>2014-02-11T22:52:08.389Z</published>
+          <summary>It&apos;s snowing again in Atlanta.</summary>
+          <updated>2014-02-11T22:52:08.389Z</updated>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&amp;entryId=8b54970f-de42-404b-b33a-4c471b51ca5d</url>
+        </target>
+        <title>David R Hudgins commented on Bill Knotts&apos;s message.</title>
+        <url>https://tspace.web.att.com/connections/opensocial/basic/rest/activitystreams/@public/@all/@all/urn:lsid:lconn.ibm.com:profiles.story:194564d6-6a45-435b-94ad-ca41f7154f24?format=atom</url>
+        <verb>post</verb>
+      </activityEntry>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:lsid:lconn.ibm.com:profiles.story:f91d9c69-2787-414a-82b4-83972ad3376d</id>
+    <title>Bill Knotts It&apos;s snowing again in Atlanta.</title>
+    <summary type="html">It&apos;s snowing again in Atlanta.</summary>
+    <author>
+      <name>Bill Knotts</name>
+    </author>
+    <updated>2014-02-11T14:19:11.279-08:00</updated>
+    <link rel="alternate" href="https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&amp;entryId=cdce7264-b6ca-4678-9bbb-406749c4e394"/>
+    <content type="application/xml">
+      <activityEntry xmlns="http://ns.opensocial.org/2008/opensocial">
+        <actor>
+          <displayName>Bill Knotts</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+          <objectType>person</objectType>
+        </actor>
+        <generator>
+          <displayName>Profiles</displayName>
+          <id>profiles</id>
+          <image/>
+          <url>https://tspace.web.att.com/profiles</url>
+        </generator>
+        <id>urn:lsid:lconn.ibm.com:profiles.story:f91d9c69-2787-414a-82b4-83972ad3376d</id>
+        <object>
+          <author>
+            <displayName>Bill Knotts</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+            <objectType>person</objectType>
+          </author>
+          <displayName>Bill Knotts</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.note:cdce7264-b6ca-4678-9bbb-406749c4e394</id>
+          <objectType>note</objectType>
+          <published>2014-02-11T22:19:11.279Z</published>
+          <summary>It&apos;s snowing again in Atlanta.</summary>
+          <updated>2014-02-11T22:19:11.279Z</updated>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&amp;entryId=cdce7264-b6ca-4678-9bbb-406749c4e394</url>
+        </object>
+        <provider>
+          <displayName>IBM Connections - News Service</displayName>
+          <id>http://www.ibm.com/xmlns/prod/sn</id>
+          <url>https://tspace.web.att.com/news</url>
+        </provider>
+        <published>2014-02-11T22:19:11.279Z</published>
+        <target>
+          <displayName>Bill Knotts</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+          <objectType>person</objectType>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2</url>
+        </target>
+        <title>Bill Knotts It&apos;s snowing again in Atlanta.</title>
+        <url>https://tspace.web.att.com/connections/opensocial/basic/rest/activitystreams/@public/@all/@all/urn:lsid:lconn.ibm.com:profiles.story:f91d9c69-2787-414a-82b4-83972ad3376d?format=atom</url>
+        <verb>post</verb>
+      </activityEntry>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:lsid:lconn.ibm.com:profiles.story:1b9bc048-6bd6-4dde-93f1-845734e2a804</id>
+    <title>Bill Knotts It&apos;s snowing again in Atlanta...</title>
+    <summary type="html">It&apos;s snowing again in Atlanta...</summary>
+    <author>
+      <name>Bill Knotts</name>
+    </author>
+    <updated>2014-02-11T13:58:36.526-08:00</updated>
+    <link rel="alternate" href="https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&amp;entryId=467e4ea4-e142-4581-9396-7c3ba0bc8dc4"/>
+    <content type="application/xml">
+      <activityEntry xmlns="http://ns.opensocial.org/2008/opensocial">
+        <actor>
+          <displayName>Bill Knotts</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+          <objectType>person</objectType>
+        </actor>
+        <generator>
+          <displayName>Profiles</displayName>
+          <id>profiles</id>
+          <image/>
+          <url>https://tspace.web.att.com/profiles</url>
+        </generator>
+        <id>urn:lsid:lconn.ibm.com:profiles.story:1b9bc048-6bd6-4dde-93f1-845734e2a804</id>
+        <object>
+          <author>
+            <displayName>Bill Knotts</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+            <objectType>person</objectType>
+          </author>
+          <displayName>Bill Knotts</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.note:467e4ea4-e142-4581-9396-7c3ba0bc8dc4</id>
+          <objectType>note</objectType>
+          <published>2014-02-11T21:58:36.526Z</published>
+          <summary>It&apos;s snowing again in Atlanta...</summary>
+          <updated>2014-02-11T21:58:36.526Z</updated>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&amp;entryId=467e4ea4-e142-4581-9396-7c3ba0bc8dc4</url>
+        </object>
+        <provider>
+          <displayName>IBM Connections - News Service</displayName>
+          <id>http://www.ibm.com/xmlns/prod/sn</id>
+          <url>https://tspace.web.att.com/news</url>
+        </provider>
+        <published>2014-02-11T21:58:36.526Z</published>
+        <target>
+          <displayName>Bill Knotts</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+          <objectType>person</objectType>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2</url>
+        </target>
+        <title>Bill Knotts It&apos;s snowing again in Atlanta...</title>
+        <url>https://tspace.web.att.com/connections/opensocial/basic/rest/activitystreams/@public/@all/@all/urn:lsid:lconn.ibm.com:profiles.story:1b9bc048-6bd6-4dde-93f1-845734e2a804?format=atom</url>
+        <verb>post</verb>
+      </activityEntry>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:lsid:lconn.ibm.com:profiles.story:9782b697-8029-4fa6-9d98-173d6cfc8e2c</id>
+    <title>Bill Christian mentioned Bill Knotts in a message.</title>
+    <summary type="html">Trying out Canary&apos;s #beta URL shortening service. Great work by &lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&quot;&gt;@Bill Knotts&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;4901a8c0-3e54-102d-937f-ea7d09a572f2&lt;/span&gt;&lt;/span&gt; #canarynext</summary>
+    <author>
+      <name>Bill Christian</name>
+    </author>
+    <updated>2014-01-09T08:26:55.343-08:00</updated>
+    <link rel="alternate" href="https://tspace.web.att.com/profiles/html/profileView.do?userid=47d07bc0-3e54-102d-8986-ea7d09a572f2&amp;entryId=ff3c2bba-8fa7-4207-a6d7-581712eef7ff"/>
+    <content type="application/xml">
+      <activityEntry xmlns="http://ns.opensocial.org/2008/opensocial">
+        <actor>
+          <displayName>Bill Christian</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:47d07bc0-3e54-102d-8986-ea7d09a572f2</id>
+          <objectType>person</objectType>
+        </actor>
+        <generator>
+          <displayName>Profiles</displayName>
+          <id>profiles</id>
+          <image/>
+          <url>https://tspace.web.att.com/profiles</url>
+        </generator>
+        <id>urn:lsid:lconn.ibm.com:profiles.story:9782b697-8029-4fa6-9d98-173d6cfc8e2c</id>
+        <object>
+          <author>
+            <displayName>Bill Christian</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:47d07bc0-3e54-102d-8986-ea7d09a572f2</id>
+            <objectType>person</objectType>
+          </author>
+          <displayName>Bill Christian</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.note:ff3c2bba-8fa7-4207-a6d7-581712eef7ff</id>
+          <objectType>note</objectType>
+          <published>2014-01-09T16:26:55.343Z</published>
+          <summary>Trying out Canary&apos;s #beta URL shortening service. Great work by &lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&quot;&gt;@Bill Knotts&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;4901a8c0-3e54-102d-937f-ea7d09a572f2&lt;/span&gt;&lt;/span&gt; #canarynext</summary>
+          <updated>2014-01-09T16:26:55.343Z</updated>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=47d07bc0-3e54-102d-8986-ea7d09a572f2&amp;entryId=ff3c2bba-8fa7-4207-a6d7-581712eef7ff</url>
+        </object>
+        <provider>
+          <displayName>IBM Connections - News Service</displayName>
+          <id>http://www.ibm.com/xmlns/prod/sn</id>
+          <url>https://tspace.web.att.com/news</url>
+        </provider>
+        <published>2014-01-09T16:26:55.343Z</published>
+        <target>
+          <displayName>Bill Christian</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:47d07bc0-3e54-102d-8986-ea7d09a572f2</id>
+          <objectType>person</objectType>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=47d07bc0-3e54-102d-8986-ea7d09a572f2</url>
+        </target>
+        <title>Bill Christian mentioned Bill Knotts in a message.</title>
+        <url>https://tspace.web.att.com/connections/opensocial/basic/rest/activitystreams/@public/@all/@all/urn:lsid:lconn.ibm.com:profiles.story:9782b697-8029-4fa6-9d98-173d6cfc8e2c?format=atom</url>
+        <verb>mention</verb>
+      </activityEntry>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:lsid:lconn.ibm.com:profiles.story:cb4f30c9-babb-4447-bd87-e5f05d50aeec</id>
+    <title>BILL KNOTTS Recording videos for Symposium talk</title>
+    <summary type="html">Recording videos for Symposium talk</summary>
+    <author>
+      <name>Bill Knotts</name>
+    </author>
+    <updated>2013-11-01T13:38:30.576-07:00</updated>
+    <link rel="alternate" href="https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&amp;entryId=40073f9f-3069-41cb-bd45-14fa2d77d37a"/>
+    <content type="application/xml">
+      <activityEntry xmlns="http://ns.opensocial.org/2008/opensocial">
+        <actor>
+          <displayName>Bill Knotts</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+          <objectType>person</objectType>
+        </actor>
+        <generator>
+          <displayName>Profiles</displayName>
+          <id>profiles</id>
+          <image/>
+          <url>https://tspace.web.att.com/profiles</url>
+        </generator>
+        <id>urn:lsid:lconn.ibm.com:profiles.story:cb4f30c9-babb-4447-bd87-e5f05d50aeec</id>
+        <object>
+          <author>
+            <displayName>Bill Knotts</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+            <objectType>person</objectType>
+          </author>
+          <displayName>BILL KNOTTS</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.note:40073f9f-3069-41cb-bd45-14fa2d77d37a</id>
+          <objectType>note</objectType>
+          <published>2013-11-01T20:38:30.576Z</published>
+          <summary>Recording videos for Symposium talk</summary>
+          <updated>2013-11-01T20:38:30.576Z</updated>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&amp;entryId=40073f9f-3069-41cb-bd45-14fa2d77d37a</url>
+        </object>
+        <provider>
+          <displayName>IBM Connections - News Service</displayName>
+          <id>http://www.ibm.com/xmlns/prod/sn</id>
+          <url>https://tspace.web.att.com/news</url>
+        </provider>
+        <published>2013-11-01T20:38:30.576Z</published>
+        <target>
+          <displayName>Bill Knotts</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+          <objectType>person</objectType>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2</url>
+        </target>
+        <title>BILL KNOTTS Recording videos for Symposium talk</title>
+        <url>https://tspace.web.att.com/connections/opensocial/basic/rest/activitystreams/@public/@all/@all/urn:lsid:lconn.ibm.com:profiles.story:cb4f30c9-babb-4447-bd87-e5f05d50aeec?format=atom</url>
+        <verb>post</verb>
+      </activityEntry>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:lsid:lconn.ibm.com:profiles.story:9c0e833a-b921-4792-b34b-a8ad777e648b</id>
+    <title>BILL KNOTTS Recording videos for Symposium talk</title>
+    <summary type="html">Recording videos for Symposium talk</summary>
+    <author>
+      <name>Bill Knotts</name>
+    </author>
+    <updated>2013-11-01T13:36:13.860-07:00</updated>
+    <link rel="alternate" href="https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&amp;entryId=022dad65-ff2a-420a-9fbd-ce4f60afa3b0"/>
+    <content type="application/xml">
+      <activityEntry xmlns="http://ns.opensocial.org/2008/opensocial">
+        <actor>
+          <displayName>Bill Knotts</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+          <objectType>person</objectType>
+        </actor>
+        <generator>
+          <displayName>Profiles</displayName>
+          <id>profiles</id>
+          <image/>
+          <url>https://tspace.web.att.com/profiles</url>
+        </generator>
+        <id>urn:lsid:lconn.ibm.com:profiles.story:9c0e833a-b921-4792-b34b-a8ad777e648b</id>
+        <object>
+          <author>
+            <displayName>Bill Knotts</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+            <objectType>person</objectType>
+          </author>
+          <displayName>BILL KNOTTS</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.note:022dad65-ff2a-420a-9fbd-ce4f60afa3b0</id>
+          <objectType>note</objectType>
+          <published>2013-11-01T20:36:13.860Z</published>
+          <summary>Recording videos for Symposium talk</summary>
+          <updated>2013-11-01T20:36:13.860Z</updated>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&amp;entryId=022dad65-ff2a-420a-9fbd-ce4f60afa3b0</url>
+        </object>
+        <provider>
+          <displayName>IBM Connections - News Service</displayName>
+          <id>http://www.ibm.com/xmlns/prod/sn</id>
+          <url>https://tspace.web.att.com/news</url>
+        </provider>
+        <published>2013-11-01T20:36:13.860Z</published>
+        <target>
+          <displayName>Bill Knotts</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+          <objectType>person</objectType>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2</url>
+        </target>
+        <title>BILL KNOTTS Recording videos for Symposium talk</title>
+        <url>https://tspace.web.att.com/connections/opensocial/basic/rest/activitystreams/@public/@all/@all/urn:lsid:lconn.ibm.com:profiles.story:9c0e833a-b921-4792-b34b-a8ad777e648b?format=atom</url>
+        <verb>post</verb>
+      </activityEntry>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:lsid:lconn.ibm.com:profiles.story:aff78fcf-0a62-4062-ac40-c220f5afc13b</id>
+    <title>BILL KNOTTS Recording videos for Symposium talk</title>
+    <summary type="html">Recording videos for Symposium talk</summary>
+    <author>
+      <name>Bill Knotts</name>
+    </author>
+    <updated>2013-11-01T13:34:14.896-07:00</updated>
+    <link rel="alternate" href="https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&amp;entryId=5000a694-1540-4d40-b62f-594eafda163b"/>
+    <content type="application/xml">
+      <activityEntry xmlns="http://ns.opensocial.org/2008/opensocial">
+        <actor>
+          <displayName>Bill Knotts</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+          <objectType>person</objectType>
+        </actor>
+        <generator>
+          <displayName>Profiles</displayName>
+          <id>profiles</id>
+          <image/>
+          <url>https://tspace.web.att.com/profiles</url>
+        </generator>
+        <id>urn:lsid:lconn.ibm.com:profiles.story:aff78fcf-0a62-4062-ac40-c220f5afc13b</id>
+        <object>
+          <author>
+            <displayName>Bill Knotts</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+            <objectType>person</objectType>
+          </author>
+          <displayName>BILL KNOTTS</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.note:5000a694-1540-4d40-b62f-594eafda163b</id>
+          <objectType>note</objectType>
+          <published>2013-11-01T20:34:14.896Z</published>
+          <summary>Recording videos for Symposium talk</summary>
+          <updated>2013-11-01T20:34:14.896Z</updated>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&amp;entryId=5000a694-1540-4d40-b62f-594eafda163b</url>
+        </object>
+        <provider>
+          <displayName>IBM Connections - News Service</displayName>
+          <id>http://www.ibm.com/xmlns/prod/sn</id>
+          <url>https://tspace.web.att.com/news</url>
+        </provider>
+        <published>2013-11-01T20:34:14.896Z</published>
+        <target>
+          <displayName>Bill Knotts</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+          <objectType>person</objectType>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2</url>
+        </target>
+        <title>BILL KNOTTS Recording videos for Symposium talk</title>
+        <url>https://tspace.web.att.com/connections/opensocial/basic/rest/activitystreams/@public/@all/@all/urn:lsid:lconn.ibm.com:profiles.story:aff78fcf-0a62-4062-ac40-c220f5afc13b?format=atom</url>
+        <verb>post</verb>
+      </activityEntry>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:lsid:lconn.ibm.com:profiles.story:25dd2bd6-dc13-4388-b750-bf62d8e4c1b7</id>
+    <title>BILL KNOTTS Today&apos;s Music To Code By - Monster Magnet</title>
+    <summary type="html">Today&apos;s Music To Code By - Monster Magnet</summary>
+    <author>
+      <name>Bill Knotts</name>
+    </author>
+    <updated>2013-09-27T07:00:33.643-07:00</updated>
+    <link rel="alternate" href="https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&amp;entryId=34e17ed9-0a09-409e-b1f2-031c8f908a39"/>
+    <content type="application/xml">
+      <activityEntry xmlns="http://ns.opensocial.org/2008/opensocial">
+        <actor>
+          <displayName>Bill Knotts</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+          <objectType>person</objectType>
+        </actor>
+        <generator>
+          <displayName>Profiles</displayName>
+          <id>profiles</id>
+          <image/>
+          <url>https://tspace.web.att.com/profiles</url>
+        </generator>
+        <id>urn:lsid:lconn.ibm.com:profiles.story:25dd2bd6-dc13-4388-b750-bf62d8e4c1b7</id>
+        <object>
+          <author>
+            <displayName>Bill Knotts</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+            <objectType>person</objectType>
+          </author>
+          <displayName>BILL KNOTTS</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.note:34e17ed9-0a09-409e-b1f2-031c8f908a39</id>
+          <objectType>note</objectType>
+          <published>2013-09-27T14:00:33.643Z</published>
+          <summary>Today&apos;s Music To Code By - Monster Magnet</summary>
+          <updated>2013-09-27T14:00:33.643Z</updated>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&amp;entryId=34e17ed9-0a09-409e-b1f2-031c8f908a39</url>
+        </object>
+        <provider>
+          <displayName>IBM Connections - News Service</displayName>
+          <id>http://www.ibm.com/xmlns/prod/sn</id>
+          <url>https://tspace.web.att.com/news</url>
+        </provider>
+        <published>2013-09-27T14:00:33.643Z</published>
+        <target>
+          <displayName>Bill Knotts</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:4901a8c0-3e54-102d-937f-ea7d09a572f2</id>
+          <objectType>person</objectType>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2</url>
+        </target>
+        <title>BILL KNOTTS Today&apos;s Music To Code By - Monster Magnet</title>
+        <url>https://tspace.web.att.com/connections/opensocial/basic/rest/activitystreams/@public/@all/@all/urn:lsid:lconn.ibm.com:profiles.story:25dd2bd6-dc13-4388-b750-bf62d8e4c1b7?format=atom</url>
+        <verb>post</verb>
+      </activityEntry>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:lsid:lconn.ibm.com:profiles.story:eaedbb39-eabb-41df-a21d-fe280dbddef2</id>
+    <title>TIMOTHY P TORGERSON mentioned MICHAEL T FOEHRKOLB, LEENA GHATPANDE, JOSEF MAYER and 7 others in a message.</title>
+    <summary type="html">&lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=e5985440-f08d-102d-91d0-8721496765cd&quot;&gt;@MICHAEL T FOEHRKOLB&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;e5985440-f08d-102d-91d0-8721496765cd&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=b500ec40-f086-102d-994f-8721496765cd&quot;&gt;@LEENA GHATPANDE&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;b500ec40-f086-102d-994f-8721496765cd&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=92b67540-eeb2-102d-9ae6-8721496765cd&quot;&gt;@JOSEF MAYER&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;92b67540-eeb2-102d-9ae6-8721496765cd&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=c18a4240-f090-102d-93fa-8721496765cd&quot;&gt;@MARK S MILLIKIN&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;c18a4240-f090-102d-93fa-8721496765cd&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=4849dfc0-ee43-102d-90c0-8721496765cd&quot;&gt;@ARIC M WALKER&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;4849dfc0-ee43-102d-90c0-8721496765cd&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=3be4b9c0-3e54-102d-8e2a-ea7d09a572f2&quot;&gt;@TROY J ABTS&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;3be4b9c0-3e54-102d-8e2a-ea7d09a572f2&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=69481a40-eeaf-102d-9462-8721496765cd&quot;&gt;@JILL GOODWIN&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;69481a40-eeaf-102d-9462-8721496765cd&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;vcard  lotusPersonInactive&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=e1c8bfc0-ee4a-102d-91af-8721496765cd&quot;&gt;@CECILIA SUEN (inactive)&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;e1c8bfc0-ee4a-102d-91af-8721496765cd&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&quot;&gt;@BILL KNOTTS&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;4901a8c0-3e54-102d-937f-ea7d09a572f2&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=47d07bc0-3e54-102d-8986-ea7d09a572f2&quot;&gt;@BILL CHRISTIAN&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;47d07bc0-3e54-102d-8986-ea7d09a572f2&lt;/span&gt;&lt;/span&gt; Canary core team, I know you are all working hard on our tight deliver schedule, but please don&apos;t forget to take the 5 minutes to check in with the YESOK exercise today. Text or call, let&apos;s get us all checked in! thank you!</summary>
+    <author>
+      <name>Timothy P Torgerson</name>
+    </author>
+    <updated>2013-09-26T06:33:27.717-07:00</updated>
+    <link rel="alternate" href="https://tspace.web.att.com/profiles/html/profileView.do?userid=430bc7c0-3e54-102d-9973-ea7d09a572f2&amp;entryId=192a25ba-94d1-4a92-bcb7-deb29cf5aea7"/>
+    <content type="application/xml">
+      <activityEntry xmlns="http://ns.opensocial.org/2008/opensocial">
+        <actor>
+          <displayName>Timothy P Torgerson</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:430bc7c0-3e54-102d-9973-ea7d09a572f2</id>
+          <objectType>person</objectType>
+        </actor>
+        <generator>
+          <displayName>Profiles</displayName>
+          <id>profiles</id>
+          <image/>
+          <url>https://tspace.web.att.com/profiles</url>
+        </generator>
+        <id>urn:lsid:lconn.ibm.com:profiles.story:eaedbb39-eabb-41df-a21d-fe280dbddef2</id>
+        <object>
+          <author>
+            <displayName>Timothy P Torgerson</displayName>
+            <id>urn:lsid:lconn.ibm.com:profiles.person:430bc7c0-3e54-102d-9973-ea7d09a572f2</id>
+            <objectType>person</objectType>
+          </author>
+          <displayName>TIMOTHY P TORGERSON</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.note:192a25ba-94d1-4a92-bcb7-deb29cf5aea7</id>
+          <objectType>note</objectType>
+          <published>2013-09-26T13:33:27.717Z</published>
+          <summary>&lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=e5985440-f08d-102d-91d0-8721496765cd&quot;&gt;@MICHAEL T FOEHRKOLB&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;e5985440-f08d-102d-91d0-8721496765cd&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=b500ec40-f086-102d-994f-8721496765cd&quot;&gt;@LEENA GHATPANDE&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;b500ec40-f086-102d-994f-8721496765cd&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=92b67540-eeb2-102d-9ae6-8721496765cd&quot;&gt;@JOSEF MAYER&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;92b67540-eeb2-102d-9ae6-8721496765cd&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=c18a4240-f090-102d-93fa-8721496765cd&quot;&gt;@MARK S MILLIKIN&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;c18a4240-f090-102d-93fa-8721496765cd&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=4849dfc0-ee43-102d-90c0-8721496765cd&quot;&gt;@ARIC M WALKER&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;4849dfc0-ee43-102d-90c0-8721496765cd&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=3be4b9c0-3e54-102d-8e2a-ea7d09a572f2&quot;&gt;@TROY J ABTS&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;3be4b9c0-3e54-102d-8e2a-ea7d09a572f2&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=69481a40-eeaf-102d-9462-8721496765cd&quot;&gt;@JILL GOODWIN&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;69481a40-eeaf-102d-9462-8721496765cd&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;vcard  lotusPersonInactive&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=e1c8bfc0-ee4a-102d-91af-8721496765cd&quot;&gt;@CECILIA SUEN (inactive)&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;e1c8bfc0-ee4a-102d-91af-8721496765cd&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=4901a8c0-3e54-102d-937f-ea7d09a572f2&quot;&gt;@BILL KNOTTS&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;4901a8c0-3e54-102d-937f-ea7d09a572f2&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;vcard&quot;&gt;&lt;a class=&quot;fn url&quot; href=&quot;https://tspace.web.att.com/profiles/html/profileView.do?userid=47d07bc0-3e54-102d-8986-ea7d09a572f2&quot;&gt;@BILL CHRISTIAN&lt;/a&gt;&lt;span class=&quot;x-lconn-userid&quot; style=&quot;display : none&quot;&gt;47d07bc0-3e54-102d-8986-ea7d09a572f2&lt;/span&gt;&lt;/span&gt; Canary core team, I know you are all working hard on our tight deliver schedule, but please don&apos;t forget to take the 5 minutes to check in with the YESOK exercise today. Text or call, let&apos;s get us all checked in! thank you!</summary>
+          <updated>2013-09-26T13:33:27.717Z</updated>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=430bc7c0-3e54-102d-9973-ea7d09a572f2&amp;entryId=192a25ba-94d1-4a92-bcb7-deb29cf5aea7</url>
+        </object>
+        <provider>
+          <displayName>IBM Connections - News Service</displayName>
+          <id>http://www.ibm.com/xmlns/prod/sn</id>
+          <url>https://tspace.web.att.com/news</url>
+        </provider>
+        <published>2013-09-26T13:33:27.717Z</published>
+        <target>
+          <displayName>Timothy P Torgerson</displayName>
+          <id>urn:lsid:lconn.ibm.com:profiles.person:430bc7c0-3e54-102d-9973-ea7d09a572f2</id>
+          <objectType>person</objectType>
+          <url>https://tspace.web.att.com/profiles/html/profileView.do?userid=430bc7c0-3e54-102d-9973-ea7d09a572f2</url>
+        </target>
+        <title>TIMOTHY P TORGERSON mentioned MICHAEL T FOEHRKOLB, LEENA GHATPANDE, JOSEF MAYER and 7 others in a message.</title>
+        <url>https://tspace.web.att.com/connections/opensocial/basic/rest/activitystreams/@public/@all/@all/urn:lsid:lconn.ibm.com:profiles.story:eaedbb39-eabb-41df-a21d-fe280dbddef2?format=atom</url>
+        <verb>mention</verb>
+      </activityEntry>
+    </content>
+  </entry>
+  <osearch:startIndex>0</osearch:startIndex>
+  <osearch:totalResults>-1</osearch:totalResults>
+  <osearch:itemsPerPage>20</osearch:itemsPerPage>
+  <author>?</author>
+  <title>tSpace - Public stories</title>
+  <updated></updated>
+  <id>?</id>
+</feed>
