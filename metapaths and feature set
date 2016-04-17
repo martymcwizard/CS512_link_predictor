@@ -1,0 +1,67 @@
+<meeting> - <invite> - (id)
+
+(meeting)
+(tspace community) 
+
+Trying to predict direct interaction:          
+*(A) - (liked) - (B)                      : A likes B
+*(A) - (commented) - (B)                  : A comments B
+*(A) - (mentioned) - (B)                  : A mentions B
+
+Features come from these paths: limit length of path to 4 (i.e., end points might share 1 or 2 common persons)
+(A) - (liked) - (B) - (liked) - (C)       : A and C like B (A != C)
+(A) - (mentioned) - (B) - (liked) - (C)   : (A != C)
+(A) - (liked) - (B) - (mentioned) - (C)   :
+(A) - (liked) - (B) - (commented) (D) - (mentioned) - (C)   : 
+...
+*(A) reports-to (B) manages (C)           : A and C have the same manager
+*(A) reports-to (B)
+
+(A) reports-to (B) reports-to (C)         : chain will always be 0 or 1 because a person has ONLY 1 boss
+(A) reports-to (B) reports-to (C) reports-to (D):
+
+metrics:
+- common neighbors
+- path count
+
+feature set:
+training
+        (person 1 comments person 2 likes person 3: path_count) ... (worker - boss) ... (same boss) ... (Label: T-space direct interaction)
+(A, B)                          4                                           1                                            1
+(A, C)                          #                                           0                1
+...
+(B, A)                          0                                           0
+
+'hash1.hash2'
+
+test
+all t-space features are 0
+        (person 1 comments person 2 likes person 3: path_count) ... (worker - boss) ... (same boss) ... (Label: T-space direct interaction)
+(X, Y)                          0                                          0/1              1/0                          1/0
+
+
+Issues:
+- Time periods (between tspace and inbox invites and worker-boss)
+
+
+path count:
+(A) - (liked) - (B) - (liked) - (C)             : pathcount([LIKED_AB, LIKED_BC])[A, C]
+(A) - (mentioned) - (B) - (liked) - (C)         : pathcount([MENTIONED_AB, LIKED_BC])[A, C]
+(A) - (liked) - (B) - (mentioned) - (C)         : pathcount([LIKED_AB, MENTIONED_BC])[A, C]
+(A) reports-to (B)                              : 0/1
+(A) reports-to (B) manages (C)                  : 0/1
+(A) reports-to (B) reports-to (C)               : 0/1
+
+More features:
+(High Connectivity # more than 100 likes)       : 0/1
+(High Influence # more than 100 mentions)       : 0/1
+
+# likes                                         : numeric
+# mentions                                      : numeric
+# common likes                                  : numeric
+# common likes / # union likes                  : numeric
+
+to get features from [LIKE, MENTION] meta-path
+(PC, NPC, RW, SRW) = generateMPFeatures([LIKE, MENTION])
+        PC(i,j) NPC(i,j) RW(i,j) SRW(i,j) ... Label
+(i, j)                                         1/0

@@ -60,3 +60,9 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+data/anon_tSpace_sorted.txt
+data/calendar.readme.docx
+data/hashed.readme.docx
+data/id_pairs_hashed_sorted.txt
+data/id_singles_hashed_sorted.txt
+data/tSpace.readme.docx
