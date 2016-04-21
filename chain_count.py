@@ -18,7 +18,7 @@ for i in xrange(len(pairs)):
     peep1, peep2 = pairs[i].split()
     chain1 = coc[peep1]
     chain2 = coc[peep2]
-    match_peeps = [val for val in chain1 if cal in chain2][0]
+    match_peeps = [val for val in chain1 if val in chain2][0]
     if match_peeps == []:
         distance = len(chain1) + len(chain2)
     else:
