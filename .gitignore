@@ -66,3 +66,12 @@ data/hashed.readme.docx
 data/id_pairs_hashed_sorted.txt
 data/id_singles_hashed_sorted.txt
 data/tSpace.readme.docx
+data/c_pairs_anon_scored.feb
+data/c_uniq_pairs_anon_scored.mar
+data/t_pairs.mar.txt
+data/t_pairs_anon_verbs.feb.txt
+data/_obs/anon_tSpace_sorted.txt
+data/_obs/calendar.readme.docx
+data/_obs/hashed.readme.docx
+data/_obs/id_pairs_hashed_sorted.txt
+data/_obs/tSpace.readme.docx
